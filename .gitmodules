@@ -1,0 +1,3 @@
+[submodule "server/tienda"]
+	path = server/tienda
+	url = https://github.com/MatiasGonzalez22/Tienda.git
